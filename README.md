@@ -4,12 +4,9 @@
 
 <strong>Project Description</strong>
 <body>Our product is a next-generation 3D printer that enables the user to</body>
+
 <strong>Group Members</strong>
-<body>Marco Vethanayagam, <p>300121798</body>
-<body>Andy Ung, 300117710</body>
-<body>Patrick Loranger, 300112374</body>
-<body>Zaidane El Haouari, 300130581</body>
-<body>Jughurta Menzou, 
+<p>Marco Vethanayagam, 300121798<br>Andy Ung, 300117710<br>Patrick Loranger, 300112374<br>Zaidane El Haouari, 300130581<br>Jughurta Menzou, 300128659<p>
 <h2>Agenda</h2>
 <table style="width:100%">
   <tr>
