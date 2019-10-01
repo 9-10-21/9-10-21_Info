@@ -1,6 +1,7 @@
 <h1>Welcome to Team 21</h1>
 
 <strong>Company/Product Name: prInstant</strong>
+
 <strong>Project Description</strong>
 <body>Our product is a next-generation 3D printer that enables the user to</body>
 <strong>Group Members</strong>
