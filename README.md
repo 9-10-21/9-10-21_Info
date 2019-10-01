@@ -1,8 +1,10 @@
-<h1>Welcome to Team 21-Ryde</h1>
+<h1>Welcome to Team 21</h1>
 
-<strong>Company Name: Ryde</strong>
-<strong><br>Product Name: Ryde</strong>
-
+<strong>Company/Product Name: prInstant</strong>
+<strong>Project Description</strong>
+<body>Our product is a next-generation 3D printer that enables the user to</body>
+<strong>Group Members</strong>
+<body>Marco Vethanayagam, 300121798</body>
 <h2>Agenda</h2>
 <table style="width:100%">
   <tr>
