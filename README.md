@@ -1,6 +1,6 @@
 <h1>Welcome to Team 21</h1>
 
-<strong>Company/Product Name: prInstant</strong>
+<strong>Company/Product Name: <b>prInstant</b></strong>
 
 <strong>Project Description</strong>
 <p>Our product is a next-generation 3D printer that enables the user to<br><br><b>Group Members</b><br>Marco Vethanayagam, 300121798<br>Andy Ung, 300117710<br>Patrick Loranger, 300112374<br>Zaidane El Haouari, 300130581<br>Jughurta Menzou, 300128659<p>
