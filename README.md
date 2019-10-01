@@ -4,6 +4,7 @@
 
 <strong>Project Description</strong>
 <body>Our product is a next-generation 3D printer that enables the user to</body>
+
 <strong>Group Members</strong>
 <body>Marco Vethanayagam, 300121798</body>
 <h2>Agenda</h2>
