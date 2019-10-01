@@ -3,7 +3,7 @@
 <strong>Company/Product Name:<b>prInstant</strong>
 
 <strong>Project Description</strong>
-<p>Our product is a next-generation 3D printer that enables the user to<br><br><b>Group Members<b><br>Marco Vethanayagam, 300121798<br>Andy Ung, 300117710<br>Patrick Loranger, 300112374<br>Zaidane El Haouari, 300130581<br>Jughurta Menzou, 300128659<p>
+<p>Our product is a next-generation 3D printer that enables the user to<br><br><b>Group Members</b><br>Marco Vethanayagam, 300121798<br>Andy Ung, 300117710<br>Patrick Loranger, 300112374<br>Zaidane El Haouari, 300130581<br>Jughurta Menzou, 300128659<p>
 <h2>Agenda</h2>
 <table style="width:100%">
   <tr>
