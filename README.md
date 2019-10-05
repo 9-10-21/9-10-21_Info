@@ -4,7 +4,7 @@
 
 <p><strong>Organization:</strong><br><a href="https://github.com/9-10-21">9-10-21</a></p>
 
-<h2>Website:</h2><br><p>Here is the link to our website: </a> 300117710<br><a href="9-10-21.github.io">9-10-21.github.io</a></p>
+<h2>Website:</h2><p>Here is the link to our website: </a> 300117710<br><a href="9-10-21.github.io">https://9-10-21.github.io/</a></p>
 
 <h2>Agenda</h2>
 <table style="width:100%">
