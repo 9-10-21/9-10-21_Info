@@ -15,12 +15,12 @@
   </tr>
   <tr>
     <td>September 23-30</td>
-    <td>TBD</td>
-    <td>I</td>
+    <td>Weekly Report</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>October 1-7</td>
-    <td>TBD</td>
-    <td>I</td>
+    <td>Weekly Report</td>
+    <td>Complete</td>
   </tr>
 </table>
