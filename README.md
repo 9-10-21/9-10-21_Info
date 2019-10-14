@@ -13,4 +13,4 @@
   font-size: 12px;
  }
 
-<p>W.I.P</p>
+<p>Welcome to PrInstant</p>
