@@ -4,7 +4,7 @@
 <button class="button" type="button" href="www.google.ca">Login</button>
 
 .button {
-  background-color: black
+  background-color: black;
   border: none;
   color: grey;
   padding: 15px 30px;
