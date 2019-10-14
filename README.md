@@ -1,7 +1,7 @@
 <h1>PrInstant</h1>
 
 
-<button class="button" type="button">Login</button>
+<button class="button" type="button" href="www.google.ca">Login</button>
 
 .button {
   background-color: black
